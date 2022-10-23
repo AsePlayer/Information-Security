@@ -1,0 +1,11 @@
+Ryan Scott
+ITT-305
+
+C# Keylogger Explanation ----------------------------------
+https://www.loom.com/share/bf6cf212fc004787ae7888a34d9cc885
+
+Python Virus Explanation ----------------------------------
+https://www.loom.com/share/45ab94e828c24336af497a3b49af345d
+
+Excel Macro Virus Explanation -----------------------------
+https://www.loom.com/share/f075642fcc68491faec828a6d381fd24
