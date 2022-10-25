@@ -12,6 +12,9 @@
 
 <body>
 <h1>Time for funny jokes!</h1>
+<a href = "login_form.php">Login</a>
+<a href = "logout.php">Logout</a>
+<a href = "register_new_user.php">Register!</a><br>
 
 <?php
 
