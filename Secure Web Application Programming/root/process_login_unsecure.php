@@ -12,13 +12,20 @@ ini_set('display_errors', 1);
 
 include "db_connect.php";
 
-$username = $_GET['username'];
-$password = $_GET['password'];
+$username = $_POST['username'];
+$password = $_POST['password'];
 
 echo "You attempted to login with " . $username . " and " . $password . "<br>";
 
 $sql = "SELECT id, username, password FROM users WHERE username = '$username' AND password = '$password'";
+
+echo "SQL = " . $sql . "<br>";
+
 $result = $mysqli->query($sql);
+
+echo "<pre>";
+print_r($result);
+echo "</pre>";
 
 if ($result->num_rows > 0) {
 	$row = $result->fetch_assoc();
