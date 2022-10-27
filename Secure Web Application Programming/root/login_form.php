@@ -19,7 +19,7 @@ include "db_connect.php";
 ?>
 
 
-<form class="form-horizontal" method="post" action="process_login_unsecure.php">
+<form class="form-horizontal" method="post" action="process_login.php">
 <fieldset>
 
 <!-- Form Name -->
