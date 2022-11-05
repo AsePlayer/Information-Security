@@ -1,0 +1,4 @@
+# Topic 3 DQ 3
+## In the Python Virus activity, we created a Python application that inserts itself into other .py files in the same directory. What differences do you see between this python script and a real virus?
+
+As opposed to an actual virus, which has the ability to access all files and directories on a computer, the Python virus script can only affect Python files within the same directory. There's also a reasonable chance that real viruses will perform other tasks besides locking down files. These tasks include modifying permissions, creating, deleting, and editing files, and encrypting them.
