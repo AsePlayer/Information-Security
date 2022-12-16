@@ -1,7 +1,7 @@
 <?php
 
 // Connection Information split into 4 variables
-$host = "localhost:3307";
+$host = "https://jokesryan.azurewebsites.net";
 $username = "root";
 $password = "root";
 $database_in_use = "test";
