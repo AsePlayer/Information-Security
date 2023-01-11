@@ -1,0 +1,4 @@
+# Topic 3 DQ 4
+## Compare public statements made by the Trump administration to the Obama administration regarding FBI investigations and Apple security. Describe similarities and differences you see in the justification of the arguments and in the tone of their language. Does what they say surprise you or is it predictable?
+
+The Trump Administration had a more aggressive stance towards tech companies, calling for boycotts and accusing them of not cooperating enough. The Obama Administration had a more conciliatory stance, recognizing the complexity of the issue and calling for a balance between security and privacy. Both Administrations' had valid arguments for their stance. The language used by Trump Administration was more confrontational, while the language used by Obama Administration was more cooperative. It is not surprising that different Administrations have different views on this issue.
