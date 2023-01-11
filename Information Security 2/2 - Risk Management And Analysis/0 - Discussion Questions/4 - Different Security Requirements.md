@@ -1,0 +1,8 @@
+# Topic 2 DQ 4
+## After reading about security requirements in Chapter 10 in “Security in Computing,” state a security requirement that is not realistic. State a security requirement that is not verifiable. State two security requirements that are inconsistent.
+
+1. A security requirement that is not realistic could be one that requires 100% protection against all types of cyber attacks, regardless of their complexity or sophistication. While it is important to strive for a high level of security, it is not realistic to expect that an organization can be completely immune to all forms of cyber attacks. This is because new and advanced forms of attack are constantly being developed, and even the most well-secured systems can be vulnerable to unknown vulnerabilities.
+
+2. A security requirement that is not verifiable would be one that requires an organization to "have a positive attitude towards security." This is not verifiable because it is not a measurable requirement, and it's not easy to define or check it.
+
+3. Two security requirements that are inconsistent could be one that requires the use of strong encryption for all data transmissions and another that requires all data transmissions to be sent in plain text. These two requirements are inconsistent because encryption and plain text are opposite ways of protecting data, it is not possible to comply with both requirements at the same time. Another example could be a requirement for a password to have at least 8 characters and another requirement to have at least 12 characters, those two requirements are inconsistent because the user can't comply with both.
